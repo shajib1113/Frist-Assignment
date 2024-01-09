@@ -1,0 +1,278 @@
+body{
+    
+    width: 1200px;
+    margin: auto;
+ 
+
+}
+
+nav{
+    background-image: url('../resources/Banner Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+
+    background-position: top bottom left right;
+    
+}
+
+div > p{
+    color: rgb(245, 218, 179);
+    text-align: center;
+     font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 200px;
+
+}
+
+div > h2{
+    color: rgb(245, 184, 179);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    
+}
+/* section-title styles */
+.section-title{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+margin: 0%;
+
+}
+.section-description{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+margin: 0%;
+
+
+}
+.section-body{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+margin: 0%;
+
+
+}
+/* section-photo styles */
+.section-photo{
+
+width: 802.9px;
+margin:30px auto;
+height: 500px;
+flex-shrink: 0;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.new-year{
+
+ background-image: url(../resources/Vectorrr.png) ;
+ background-position: center;
+ background-size: cover;
+ text-align: center;
+ display: block;
+
+
+
+}
+
+
+.Welcome {
+
+    font-size: 40px;
+    color: #fff;
+    padding-left: 0px;
+    padding-right: 560px;
+    
+}
+.doler {
+    width: 1000px;
+    color: #fff;
+    text-align: justify;
+    padding: 20px 80px;
+    font-size: 18px;
+    
+    
+}
+
+.btn{
+    outline: none;
+    border: none;
+    background: none;
+    width: 200px;
+    font-size: 20px;
+    display: block;
+    color: white;
+    margin-left: 120px;
+ padding-bottom: 50px;
+
+
+
+}
+
+
+
+.places{
+    background: linear-gradient(#ff00006e);
+}
+.title-2{
+   background-image: url('../resources/Group\ 70.png');
+    width: 350px;
+    margin-left: 300px;
+    background-repeat: no-repeat;
+}
+  /* places title styles */
+  .places{
+   background-color: blanchedalmond;
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+color: #F00;
+  }
+  .boy{
+    color: white;
+background-color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+  }  
+    /* mom title styles */
+
+.frist{
+    color: #F00;
+font-family: Inter;
+font-size: 18px;
+
+}
+.come{
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    
+    
+}
+.dj{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+
+}
+.secend{
+    
+    padding-inline: 400px;
+    page-break-inside: auto;
+}
+
+/* happy-title style */
+.happy{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+}
+
+.dibani{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-style: normal;
+}
+/* news-title styles */
+.news-title{
+    background-color: rgba(255,0,0,0.05);
+    background-image: url('../resources/Group\ 61.png');
+    background-repeat: no-repeat;
+    
+    width: 1300px;
+    height: 600px;
+}
+.end{
+    color: #070211;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 300px;
+
+}
+.bad{
+    color: #rgba(7,2,17,0.60);
+    text-align: center;
+    font-size: 18px;
+}
+
+/* footer style */
+.am{
+    background-color: black;
+    width: 1600px;
+    height: 600px;
+    
+}
+.big{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.bro{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 350px;
+    padding-left: 50px;
+}
+.namber{
+    color: #fff;
+    font-size: 20px;
+    padding-right: 100px;
+    padding-bottom: 300px;
+}
+
+
+
+
+
+
